@@ -38,4 +38,8 @@
     .projetos {
         padding: 30px;
     }
+
+    .home{
+        height: fit-content;
+    }
 }
